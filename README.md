@@ -4,7 +4,7 @@ This project contains a collection of Python scripts for analyzing and visualizi
 
 ## Project Structure
 
-- `online_courses (script).py`: Python script containing data analysis and visualization code.
+- `online_courses.ipynb`: Python script containing data analysis and visualization code.
 - `online_courses_uses.csv`: Dataset file (replace with your actual dataset).
 
 ## Requirements
